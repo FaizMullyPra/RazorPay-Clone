@@ -20,5 +20,5 @@ It's a website that has been designed to mimic the design of the popular Indian 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+- **LinkedIn** - [www.linkedin.com/in/mohd-faiz-0493bb2a7"]
+- **Instagram** - [www.instagram.com/mr_faiz_.official]
